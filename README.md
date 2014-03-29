@@ -3,6 +3,7 @@ lab2-3
 Программа написана на языке C#, поэтому для запуска на Ubuntu я использовала mono.
 
 Деплой-инструкция:
+
 1. Установить mono-dmcs:
 sudo apt-get install mono-xsp2 mono-xsp2-base
 2. Скопировать в одну папку файлы lab.cs, example1.xml, example2.xml, transition.xsl
