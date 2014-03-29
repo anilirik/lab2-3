@@ -10,5 +10,5 @@ sudo apt-get install mono-xsp2 mono-xsp2-base
 3. Ввести команду gmcs lab.cs
 4. Выполнить ./lab.exe example1.xml transition.xsl
 или ./lab.exe example2.xml transition.xsl
-// example1.xml и example2.xml - это два XML документа, удовлетворяющих XSD-схеме xsdScheme
+(example1.xml и example2.xml - это два XML документа, удовлетворяющих XSD-схеме xsdScheme)
 5. Запустить в браузере файл books.html, сгенерированный программой
