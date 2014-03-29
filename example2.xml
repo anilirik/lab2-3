@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Писатели из списка книг для летнего чтения-->
+<document>
+	<info>
+		<![CDATA[<p><h1 align="center"><font color="#008080">Список книг для летнего чтения, 9 класс</font></h1></p>]]>
+	</info>
+	<writers>
+		<writer>
+			<name>Александр Романович Беляев</name>
+			<photo url="http://archivsf.narod.ru/1884/aleksander_belyaev/09.jpg"></photo>
+			<worksList>
+				<work lang="ru" year="1941">
+					<title>Ариэль</title>
+					<genres>
+						<genre>Роман</genre>
+						<genre>Фантастический роман</genre>
+						<genre>Сатирический роман</genre>
+					</genres>
+				</work>
+				<work lang="ru" year="1925">
+					<title>Голова профессора Доуэля</title>
+					<genres>
+						<genre>Научная фантастика</genre>
+						<genre>Спекулятивная фантастика</genre>
+					</genres>
+				</work>
+				<work lang="ru" year="1928">
+					<title>Человек-амфибия</title>
+					<genres>
+						<genre>Научная фантастика</genre>
+						<genre>Спекулятивная фантастика</genre>
+					</genres>
+				</work>
+			</worksList>
+		</writer>
+		<writer>
+			<name>Джордж Оруэлл</name>
+			<photo url="http://dic.academic.ru/pictures/enc_colier/o468.jpg"></photo>
+			<worksList>
+				<work lang="en" year="1949">
+				<title>1984</title>
+					<genres>
+						<genre>Антиутопия</genre>
+						<genre>Сатирический роман</genre>
+					</genres>
+				</work>
+				<work lang="en" year="1945">
+				<title>Скотный двор</title>
+					<genres>
+						<genre>Антиутопия</genre>
+						<genre>Сатира</genre>
+					</genres>
+				</work>
+			</worksList>
+		</writer>
+	</writers>
+</document>
