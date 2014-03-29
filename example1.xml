@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Писатели из списка книг для летнего чтения-->
+<document>
+	<info>
+		<![CDATA[<p><h1 align="center"><font color="#008080">Список книг для летнего чтения, 10 класс</font></h1></p>]]>
+	</info>
+	<writers>
+		<writer>
+			<name>Лев Николаевич Толстой</name>
+			<photo url="http://cdn5.img22.ria.ru/images/15107/76/151077691.jpg"></photo>
+			<worksList>
+				<work lang="ru" year="1869">
+					<title>Война и мир</title>
+					<genres>
+						<genre>Философский роман</genre>
+						<genre>Военный роман</genre>
+						<genre>Историческая проза</genre>
+						<genre>Любовный роман</genre>
+					</genres>
+				</work>
+				<work lang="ru" year="1877">
+					<title>Анна Каренина</title>
+					<genres>
+						<genre>Роман</genre>
+						<genre>Реализм</genre>
+					</genres>
+				</work>
+			</worksList>
+		</writer>
+		<writer>
+			<name>Владимир Владимирович Набоков</name>
+			<photo url="http://intoclassics.net/_ld/7/85508965.jpg"></photo>
+			<worksList>
+				<work lang="en" year="1955">
+				<title>Лолита</title>
+					<genres>
+						<genre>Художественная литература</genre>
+						<genre>Роман</genre>
+						<genre>Любовный роман</genre>
+						<genre>Трагикомедия</genre>
+					</genres>
+				</work>
+				<work lang="ru" year="1929">
+				<title>Защита Лужина</title>
+					<genres>
+						<genre>Роман</genre>
+					</genres>
+				</work>
+				<work lang="en" year="1962">
+				<title>Бледный огонь</title>
+					<genres>
+						<genre>Художественная литература</genre>
+					</genres>
+				</work>
+			</worksList>
+		</writer>
+	</writers>
+</document>
