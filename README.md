@@ -15,4 +15,5 @@ sudo apt-get install mono-xsp2 mono-xsp2-base
 4. Выполнить ./lab.exe example1.xml transition.xsl
 или ./lab.exe example2.xml transition.xsl
 (example1.xml и example2.xml - это два XML документа, удовлетворяющих XSD-схеме xsdScheme)
+В случае запуска программы с другими файлами следует учитывать, что вначале должен быть XML-файл, а затем - файл с XSLT-преобразованием.
 5. Запустить в браузере файл books.html, сгенерированный программой
